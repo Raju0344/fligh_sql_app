@@ -7,7 +7,7 @@ class DB:
             self.conn = mysql.connector.connect(
             host='127.0.0.1',
             user='root',
-            password='Raju@2025#$_',
+            password='******',
             database = 'indigo' # optional
             )
 
