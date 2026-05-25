@@ -36,7 +36,7 @@ An interactive Flight Analytics Dashboard App developed using **Python, SQL, Pan
 
 ## Analytics Dashboard
 
-![Analytics Dashboard](deshboard.png)
+![Analytics Dashboard](dashboad.png)
 
 ---
 
